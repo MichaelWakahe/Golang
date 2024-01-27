@@ -1,0 +1,2 @@
+# Golang
+Examples in Go
